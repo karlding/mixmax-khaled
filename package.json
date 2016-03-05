@@ -1,0 +1,29 @@
+{
+  "name": "dj-khaled-mixmap-app",
+  "version": "1.0.0",
+  "description": "Bless up fam",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karlding/mixmax-khaled.git"
+  },
+  "author": "Karl Ding",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/karlding/mixmax-khaled/issues"
+  },
+  "homepage": "https://github.com/karlding/mixmax-khaled#readme",
+  "dependencies": {
+    "chance": "^1.0.1",
+    "cors": "^2.7.1",
+    "express": "^4.13.4",
+    "request": "^2.69.0",
+    "synchronize": "^0.9.15"
+  },
+  "devDependencies": {
+    "nodemon": "^1.7.1"
+  }
+}
